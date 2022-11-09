@@ -9,3 +9,6 @@ II. Giuseppe Barbalinardo, **Zekun Chen**, Haikuan Dong, Zheyong Fan, and Davide
 III. Fernanda C. Bononi, **Zekun Chen**, Oliviero Andreussi, Ted Hullar, Cort Anastasio,
 Davide Donadio. "Bathochromic shift in the UV-Visible Absorption Spectra of Phenolic Molecules at Ice Surfaces: insights from First-Principles Calculations." JPCA
 124.44 (2020): 9288-9298. [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c07038), [SI-data](https://archive.materialscloud.org/record/2020.123)
+
+IV. G. Barbalinardo, **Zekun Chen**, N. Lundgren, Davide Donadio. "Efficient Anharmonic Lattice Dynamics Calculations of Thermal Transport in Crystalline and Disordered
+Solids." J. Appl. Phys 128.13 (2020): 135104. [paper](https://aip.scitation.org/doi/abs/10.1063/5.0020443), [SI-data](https://github.com/nanotheorygroup/kaldo/tree/main/examples/silicon_clathrate_Tersoff_LAMMPS)
