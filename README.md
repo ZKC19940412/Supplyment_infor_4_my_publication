@@ -14,3 +14,6 @@ Davide Donadio. "Bathochromic shift in the UV-Visible Absorption Spectra of Phen
 
 V. G. Barbalinardo, **Zekun Chen**, N. Lundgren, Davide Donadio. "Efficient Anharmonic Lattice Dynamics Calculations of Thermal Transport in Crystalline and Disordered
 Solids." J. Appl. Phys 128.13 (2020): 135104. [paper](https://aip.scitation.org/doi/abs/10.1063/5.0020443), [SI-data](https://github.com/nanotheorygroup/kaldo/tree/main/examples/silicon_clathrate_Tersoff_LAMMPS)
+
+
+***If you need extra materials or encouter broken links, please send an email at zkuchen@ucdavis.edu. Thanks :)***
