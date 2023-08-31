@@ -1,7 +1,7 @@
 # Supplyment information for my publication.
 A markdown page summarizing the links of the paper and supplement data for my selective publications.
 
-I. Berrens, M. L., ***Chen, Z***., Chan, K. T., Anastasio, C., & Donadio, D. Solvation Structure and UV–Visible Absorption Spectra of the Nitrate Anion at the Air–Ice Interface by First-Principles Molecular Simulations. ACS Earth Space Chem （2023). [paper](https://pubs.acs.org/doi/full/10.1021/acsearthspacechem.3c00127?casa_token=Qj_uMdnsAH8AAAAA%3A6beba5jN7LwPUbxC5pufbpgnqxyv3jK9IsylkIpbOi68xpZlE7gB119PvUx39Nhf2LXpcnsVVh66lEV9RA), [SI-Data](https://archive.materialscloud.org/record/2023.115)
+I. Berrens, M. L., ***Chen, Z***., Chan, K. T., Anastasio, C., & Donadio, D. Solvation Structure and UV–Visible Absorption Spectra of the Nitrate Anion at the Air–Ice Interface by First-Principles Molecular Simulations. ACS Earth Space Chem (2023). [paper](https://pubs.acs.org/doi/full/10.1021/acsearthspacechem.3c00127?casa_token=Qj_uMdnsAH8AAAAA%3A6beba5jN7LwPUbxC5pufbpgnqxyv3jK9IsylkIpbOi68xpZlE7gB119PvUx39Nhf2LXpcnsVVh66lEV9RA), [SI-Data](https://archive.materialscloud.org/record/2023.115)
 
 
 II. **Zekun Chen**, Fernanda C Bononi, Charles A Sievers, Wang-Yeuk Kong, Davide Donadio. "UV-Visible Absorption Spectra of Solvated Molecules by Quantum Chemical
