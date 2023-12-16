@@ -1,5 +1,5 @@
 # Supplyment information for my publication.
-A markdown page summarizing the links of the paper and supplement data for my selective publications.
+A markdown page summarizing the links of the paper and supplement data for my selected publications. For the track record of all my publications, please refer to my [google-scholar profile](https://scholar.google.com/citations?user=sKv2WVcAAAAJ&hl=en).
 
 I. ***Chen, Zekun*** and Berrens, Margaret L and Chan, Kam-Tung and Fan, Zheyong and Donadio, Davide. "Thermodynamics of Water and Ice from a Fast and Scalable First-Principles Neuroevolution Potential." Journal of Chemical \& Engineering Data (2023). [paper](https://pubs.acs.org/doi/full/10.1021/acs.jced.3c00561?casa_token=ghv3Lw2QilQAAAAA%3APftCLmnRIrP95mdjk1K5IbYvzwlbDOKI0Fx6v8kNLnpVzmsU-4JFRWCurAObNOxPUJRug2OSYfAD-g), [SI-data](https://github.com/nanotheorygroup/water_ice_nep)
 
