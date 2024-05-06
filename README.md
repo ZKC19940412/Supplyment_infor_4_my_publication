@@ -21,4 +21,4 @@ VII. G. Barbalinardo, **Zekun Chen**, N. Lundgren, Davide Donadio. "Efficient An
 Solids." J. Appl. Phys 128.13 (2020): 135104. [paper](https://aip.scitation.org/doi/abs/10.1063/5.0020443), [SI-data](https://github.com/nanotheorygroup/kaldo/tree/main/examples/silicon_clathrate_Tersoff_LAMMPS)
 
 
-***If you need extra materials or encouter broken links, please send an email at zkuchen@ucdavis.edu. Thanks :)***
+***Need extra materials or encouter broken links?  Please send an email at zkuchen@ucdavis.edu. Thanks :)***
