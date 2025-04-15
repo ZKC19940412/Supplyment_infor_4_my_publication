@@ -5,7 +5,7 @@ A markdown page summarizing the links of the paper and supplement data for my se
 
 2. Dylan Folkner, ***Zekun Chen***, Giuseppe Barbalinardo, Florian Knoop, Davide Donadio. "Elastic moduli and thermal conductivity of quantum materials at finite temperature" J. Appl. Phys. 136 (2024): 221101. [paper](https://pubs.aip.org/aip/jap/article/136/22/221101/3325173), [SI-data](https://github.com/dafolkner/Silicon_project)
 
-3. Siddharth Sonti, Chenghan Sun$, ***Zekun Chen***, Robert Kowalski, Joseph Kowalski, Davide Donadio, Surl-Hee Ahn, Ambarish Kukani. "The Stability and Dynamics of
+3. Siddharth Sonti, Chenghan Sun, ***Zekun Chen***, Robert Kowalski, Joseph Kowalski, Davide Donadio, Surl-Hee Ahn, Ambarish Kukani. "The Stability and Dynamics of
 Zeolite-Confined Gold Nanoclusters." J. Chem. Theory Comput. 20.18 (2024): 8261-8269. [paper](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00978), [SI-data](https://github.com/Sonti974948/Data_Au_Zeo_Diffusion)
 
 4. ***Zekun Chen***, Margaret L. Berrens, Kam Tung Chan, Zheyong Fan, Davide Donadio. "Thermodynamics of Water and Ice from a Fast and Scalable First-Principles Neuroevolution Potential." Chem. Eng. Data (2024): 69, 1, 128–140. [paper](https://pubs.acs.org/doi/10.1021/acs.jced.3c00561), [SI-data](https://github.com/nanotheorygroup/water_ice_nep)
