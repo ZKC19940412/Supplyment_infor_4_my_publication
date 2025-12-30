@@ -1,5 +1,5 @@
 # Supplymental information for my publications.
-A markdown page summarizing the links of the paper and supplement data for my selected publications. For the track record of all my publications, please refer to my [google-scholar profile](https://scholar.google.com/citations?user=sKv2WVcAAAAJ&hl=en).
+A markdown page summarizing the links of the paper and supplement data for my selected publications. For the track record of all my publications, please refer to my [google-scholar profile](https://scholar.google.com/citations?user=_lL3ZncAAAAJ&hl=en).
 
 1. Kam-Tung Chan, Margaret L. Berrens, ***Zekun Chen***, C. William McCurdy, Cort Anastasio, Davide Donadio. "Revealing the Photochemical Pathways of Nitrate in Water through First-Principles Simulations." J. Chem. Phys. (2025): 162, 144318. [paper](https://doi.org/10.1063/5.0262438), [SI-data](https://github.com/kamtung-tonybill/Nitrate_Photolysis_Aqueous_Solution) 
 
@@ -25,4 +25,4 @@ Davide Donadio. "Bathochromic shift in the UV-Visible Absorption Spectra of Phen
 10. G. Barbalinardo, **Zekun Chen**, N. Lundgren, Davide Donadio. "Efficient Anharmonic Lattice Dynamics Calculations of Thermal Transport in Crystalline and Disordered
 Solids." J. Appl. Phys 128.13 (2020): 135104. [paper](https://aip.scitation.org/doi/abs/10.1063/5.0020443), [SI-data](https://github.com/nanotheorygroup/kaldo/tree/main/examples/silicon_clathrate_Tersoff_LAMMPS)
 
-***Need extra materials or encouter broken links?  Please send an email at zkuchen@ucdavis.edu. Thanks :)***
+***Need extra materials or encouter broken links?  Please send an email at zkctorch@gmail.com. Thanks :)***
